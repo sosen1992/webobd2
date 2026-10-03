@@ -1,0 +1,16 @@
+# app-ads.txt for DTC KH (Developer: SO SEN)
+# Google Play / AdMob monetization verification.
+#
+# To verify with AdMob, this file MUST be hosted at the ROOT of your
+# developer website domain, e.g.:
+#   https://sosen1992.github.io/app-ads.txt
+#   OR  https://your-own-domain.com/app-ads.txt
+#
+# IMPORTANT: Replace "pub-5564586284510310" below with your REAL AdMob
+# Publisher ID (found in AdMob > Account information > Publisher ID).
+# The "f08c47fec0942fa0" tag is Google's fixed identifier - keep it as-is.
+#
+# AdMob requires the EXACT line:
+#   google.com, pub-XXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+
+google.com, pub-5564586284510310, DIRECT, f08c47fec0942fa0
